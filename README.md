@@ -44,7 +44,6 @@ CSV of data from Experiment 2 where gloves were decontaminated after handling Bd
 | **GloveBdZooEq** | Bd zoospore equivelents from each swab qPCR assay |
 | **GloveLnBdLoad** | log(Bd zoospore equivelents) after qPCR assay from glove swabs |
 | **FrogLnBdLoad** | log(Bd zoospore equivelents) after qPCR assay from frog swabs |
-
-**BdPositive**: whether a sample was considered positive (1) or negative (0)
+| **BdPositive** | whether a sample was considered positive (1) or negative (0) |
 
 ====================================================================================================
