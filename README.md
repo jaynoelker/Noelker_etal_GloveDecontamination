@@ -21,8 +21,9 @@ CSV of data from Experiment 1 where gloves were decontaminated after being expos
 
 
 **Column names:**
-
-**SwabID**: unique identifier for each swab sample taken from a particular glove
+| Variable name | Description |
+| --- | --- |
+| **SwabID** | unique identifier for each swab sample taken from a particular glove |
 
 **LnBdLoad**: log(Bd zoospore equivelents) after qPCR assay
 
