@@ -20,12 +20,19 @@ Thomas R. Raffel (Principle investigator)
 CSV of data from Experiment 1 where gloves were decontaminated after being exposed to cultured Bd.
 
 | Variable name | Description |
+|||
 | **SwabID** | unique identifier for each swab sample taken from a particular glove |
+|||
 | **LnBdLoad** | log(Bd zoospore equivelents) after qPCR assay |
+|||
 | **GloveType** | the type of glove sampled |
+|||
 | **Treatment** | the treatment for each glove (1) Bd: positive control, (2) Control: negative control, (3) Autoclave: autoclave decontamination, (4) Wash: washing machine decontaminated, (5) BlAmRn: bleach-amquel-rinse decontamination, (6) Ethanol: ethanol decontamination |
+|||
 | **Trial** | replicates for each decontamination trial from Experiment 1 |
+|||
 | **Hand** | which hand each glove was worn on during Experiment 1 |
+|||
 
 ====================================================================================================
 
