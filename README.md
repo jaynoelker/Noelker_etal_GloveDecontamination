@@ -4,7 +4,11 @@ This study describes procedures for decontaminating nitrile and cotton gloves wh
 TITLE: Glove decontamination procedures to prevent pathogen and DNA cross-contamination among frogs
 
 James E. Noelker (jaynoelker@gmail.com)
+
 Vitoria Abreu Ruozzi1
+
 Hunter M. Craig
+
 Jason P. Sckrabulis
+
 Thomas R. Raffel
