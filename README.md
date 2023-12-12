@@ -28,8 +28,6 @@ CSV of data from Experiment 1 where gloves were decontaminated after being expos
 | **Trial** | replicates for each decontamination trial from Experiment 1 |
 | **Hand** | which hand each glove was worn on during Experiment 1 |
 
-====================================================================================================
-
 **File 2:** _"Experiment2.2020.Frog.Bd.Glove.Decontamination"_
 
 CSV of data from Experiment 2 where gloves were decontaminated after handling Bd infected Xenopus laevis.
