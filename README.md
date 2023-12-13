@@ -5,7 +5,7 @@ This study describes procedures for decontaminating nitrile and cotton gloves wh
 
 James E. Noelker (Corresponding author: jaynoelker@gmail.com)
 
-Vitoria Abreu Ruozzi1
+Vitoria Abreu Ruozzi
 
 Hunter M. Craig
 
