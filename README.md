@@ -1,7 +1,7 @@
 # Noelker_etal_GloveDecontamination
 **TITLE:** _Glove decontamination procedures to prevent pathogen and DNA cross-contamination among frogs_
 
-This study describes procedures for decontaminating nitrile and cotton gloves when handling amphibians infected with Batrachochytrium dendrobatidis (Bd).
+This study describes procedures for decontaminating nitrile and cotton gloves when handling amphibians infected with _Batrachochytrium dendrobatidis_ (Bd).
 
 James E. Noelker (Corresponding author: jaynoelker@gmail.com)
 
